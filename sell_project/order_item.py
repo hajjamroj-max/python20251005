@@ -4,6 +4,9 @@ class OrderItem:
         self.product = product
         self.quantity = quantity
         self.price = price
+        self.order_item_list = order_item_list
+        self.date_time = date_time
+        
 
 
 
